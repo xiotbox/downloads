@@ -5,7 +5,8 @@ from an exact Git tag, and ships with a `.sha256` sidecar.
 
 ## macOS quickstart
 
-New to macOS? Follow the [macOS 快速部署教程](macos-quickstart.md) 2014 copy-paste steps including Docker install.
+- 中文：[macOS 快速部署教程（新手友好，含 Docker 安装）](macos-quickstart.md)
+- English: [macOS Deployment Guide (beginner-friendly, incl. Docker)](macos-quickstart.en.md)
 
 ## XiotBox Runtime
 
