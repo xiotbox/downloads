@@ -3,6 +3,10 @@
 Public download hub for XiotBox products. Every archive is immutable, released
 from an exact Git tag, and ships with a `.sha256` sidecar.
 
+## macOS quickstart
+
+New to macOS? Follow the [macOS 快速部署教程](macos-quickstart.md) 2014 copy-paste steps including Docker install.
+
 ## XiotBox Runtime
 
 Server-side companion for XiotBox Direct Print. One compiled service provides
