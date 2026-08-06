@@ -28,11 +28,9 @@ and SocketD address for your Odoo XiotBox settings.
 Full release history is in the Releases tab. Source repository:
 [xiotbox/xiotbox-runtime](https://github.com/xiotbox/xiotbox-runtime).
 
-## Desktop patch (upcoming)
+## Desktop patch previews
 
-Windows/macOS endpoint patch for PrintNode Client will be published here with
-preview releases. Production artifacts continue to be delivered through the
-entitled customer portal.
+Windows/macOS endpoint patch for PrintNode Client. Public preview releases use tags like `desktop-patch-v1.2.1-windows-preview`; formal artifacts continue through the entitled customer portal.
 
 ## Notes
 
