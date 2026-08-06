@@ -6,7 +6,7 @@
 
 **自托管云打印平台**
 
-[官网](https://www.xiotbox.com) · [在线体验](https://demo.xiotbox.com) · [托管 Runtime](https://runtime1.xiotbox.com)
+[官网](https://www.xiotbox.com) · [在线体验](https://demo.xiotbox.com) · [Odoo 商城](https://apps.odoo.com/apps/browse?repo_maintainer_id=500439)
 
 [English](README.md) | **简体中文** | [日本語](README.ja-JP.md) | [Français](README.fr-FR.md)
 
@@ -66,5 +66,5 @@ shasum -a 256 -c XiotBoxRuntime-<版本>-docker-amd64.tar.gz.sha256
 
 - 官网：https://www.xiotbox.com
 - 在线体验：https://demo.xiotbox.com
-- 托管 Runtime 演示：https://runtime1.xiotbox.com
+- Odoo 商城：https://apps.odoo.com/apps/browse?repo_maintainer_id=500439
 - 支持邮箱：support@xiotbox.com

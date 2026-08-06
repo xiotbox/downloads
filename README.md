@@ -6,7 +6,7 @@
 
 **Self-hosted Cloud Printing Platform**
 
-[Website](https://www.xiotbox.com) · [Live Demo](https://demo.xiotbox.com) · [Managed Runtime](https://runtime1.xiotbox.com)
+[Website](https://www.xiotbox.com) · [Live Demo](https://demo.xiotbox.com) · [Odoo Apps](https://apps.odoo.com/apps/browse?repo_maintainer_id=500439)
 
 **English** | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md) | [Français](README.fr-FR.md)
 
@@ -72,5 +72,5 @@ shasum -a 256 -c XiotBoxRuntime-<version>-docker-amd64.tar.gz.sha256
 
 - Website: https://www.xiotbox.com
 - Live demo: https://demo.xiotbox.com
-- Managed Runtime demo: https://runtime1.xiotbox.com
+- Odoo Apps: https://apps.odoo.com/apps/browse?repo_maintainer_id=500439
 - Support: support@xiotbox.com

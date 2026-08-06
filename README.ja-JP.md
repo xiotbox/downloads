@@ -6,7 +6,7 @@
 
 **セルフホスト型クラウド印刷プラットフォーム**
 
-[Webサイト](https://www.xiotbox.com) · [ライブデモ](https://demo.xiotbox.com) · [マネージド Runtime](https://runtime1.xiotbox.com)
+[Webサイト](https://www.xiotbox.com) · [ライブデモ](https://demo.xiotbox.com) · [Odoo Apps](https://apps.odoo.com/apps/browse?repo_maintainer_id=500439)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · **日本語** · [Français](README.fr-FR.md)
 
@@ -65,5 +65,5 @@ shasum -a 256 -c XiotBoxRuntime-<バージョン>-docker-amd64.tar.gz.sha256
 
 - Webサイト：https://www.xiotbox.com
 - ライブデモ：https://demo.xiotbox.com
-- マネージド Runtime デモ：https://runtime1.xiotbox.com
+- Odoo Apps：https://apps.odoo.com/apps/browse?repo_maintainer_id=500439
 - サポート：support@xiotbox.com
