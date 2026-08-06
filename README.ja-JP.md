@@ -34,7 +34,7 @@ curl -fsSL https://raw.githubusercontent.com/xiotbox/downloads/main/quickstart.s
 
 初心者向けガイド：
 
-- 日本語（準備中）／English: [macOS Deployment Guide](macos-quickstart.en.md) ／简体中文: [macOS 快速部署教程](macos-quickstart.md)
+- 日本語（準備中）
 
 ## 主な機能
 

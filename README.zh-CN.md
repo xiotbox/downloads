@@ -35,7 +35,6 @@ curl -fsSL https://raw.githubusercontent.com/xiotbox/downloads/main/quickstart.s
 新手教程：
 
 - 简体中文：[macOS 快速部署教程（含 Docker 安装）](macos-quickstart.md)
-- English: [macOS Deployment Guide (incl. Docker install)](macos-quickstart.en.md)
 
 ## 核心特性
 
