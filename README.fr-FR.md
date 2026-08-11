@@ -59,6 +59,7 @@ reprises de transfert pris en charge.
 | Artefact | Emplacement |
 | --- | --- |
 | XiotBox Runtime (Docker amd64) | Releases — `XiotBoxRuntime-<version>-docker-amd64.tar.gz` |
+| XiotBox Client (Windows x86-64) | Releases — `XiotBoxClient-<version>-windows-x86_64.zip` |
 | Aperçus Desktop Patch (Windows) | Releases — tags `desktop-patch-*` |
 | Vérification SHA-256 | Fichier `.sha256` dans chaque Release |
 

@@ -58,6 +58,7 @@ supported.
 | Artifact | Where |
 | --- | --- |
 | XiotBox Runtime (Docker amd64) | Releases — `XiotBoxRuntime-<version>-docker-amd64.tar.gz` |
+| XiotBox Client (Windows x86-64) | Releases — `XiotBoxClient-<version>-windows-x86_64.zip` |
 | Desktop Patch previews (Windows) | Releases — `desktop-patch-*` tags |
 | SHA-256 verification | `.sha256` sidecar in every Release |
 

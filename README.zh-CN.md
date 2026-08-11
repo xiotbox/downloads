@@ -52,6 +52,7 @@ curl -fsSL https://raw.githubusercontent.com/xiotbox/downloads/main/quickstart.s
 | 产物 | 获取方式 |
 | --- | --- |
 | XiotBox Runtime（Docker amd64） | Releases —— `XiotBoxRuntime-<版本>-docker-amd64.tar.gz` |
+| XiotBox Client（Windows x86-64） | Releases —— `XiotBoxClient-<版本>-windows-x86_64.zip` |
 | Desktop Patch 预览版（Windows） | Releases —— `desktop-patch-*` 标签 |
 | SHA-256 校验 | 每个 Release 的 `.sha256` 文件 |
 
